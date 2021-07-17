@@ -1,0 +1,21 @@
+Opening file example2.as
+Compiling file
+Warning in line 2: illegal label before instruction "extern"
+Error in line 3: label name already defined "data"
+Error in line 6: label name already defined "r3"
+Error in line 7: Extra text after string ""abababa"""
+Error in line 8: illegal comma after command or label
+Error in line 9: command must be in Lower cases "PRN"
+Error in line 12: Extra text after parameter
+Warning in line 13: unused label before instruction "entry"
+Error in line 14: Array index is negative
+Error in line 15: duplicated comma between parameters
+Error in line 16: illegal label name "1NT"
+Error in line 16: Undefined command\set name "data"
+Error in line 19: Define cannot be under Label ".define"
+Error in line 20: Parameter "k" is not an integer
+Error in line 21: illegal comma in macro
+Error in line 21: Wrong define declaration (Must be "name = integer number")
+Error in line 5: Illegal parameter type for command "jmp"
+Error in line 11: Illegal parameter type for command "jmp"
+

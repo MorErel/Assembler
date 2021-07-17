@@ -1,0 +1,5 @@
+
+Opening file example1.as
+Compiling file
+Creating files
+Done with no errors.
