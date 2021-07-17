@@ -2,10 +2,7 @@
 void compile(char *);
 
 /* Maman 14 - Assembler program to compile a file into a machine code
- * if success creating a *.ob file with the memory lines (also extern and entry files if there are parameters)
- * author: Eldar Erel, ID: 301001046 & Mor Dayan, ID: 308376037
- * version v1.0
- */
+ * if success creating a *.ob file with the memory lines (also extern and entry files if there are parameters)*/
 /* main method
  * getting file names parameters in the command line */
 int main(int argc, char **argv) {
